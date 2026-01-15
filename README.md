@@ -88,12 +88,6 @@ The project focuses on practicing core web-app concepts such as authentication, 
     python app.py
     ```
 
-    Open:
-    ```text
-    http://127.0.0.1:5000
-    ```
-
-
 
 ## Usage 🚀
 1.  **Start the application:**
@@ -137,10 +131,6 @@ Common pages and tools (names may vary depending on configuration):
 ## License ⚖️
 This project is licensed under the [MIT License](LICENSE).
 
-
-
-## Footer 📃
-PassPal - https://github.com/<your-username>/PassPal
 
 Feel free to test the project as part of academic work!
 
